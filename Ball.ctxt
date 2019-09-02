@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=x\ y\ v\ a
+comment0.target=Ball(double,\ double,\ double,\ double)
+comment1.params=
+comment1.target=int\ getX()
+comment2.params=
+comment2.target=int\ getY()
+comment3.params=
+comment3.target=double\ getV()
+comment4.params=
+comment4.target=double\ getA()
+comment5.params=
+comment5.target=double\ changeA()
+comment6.params=
+comment6.target=void\ move()
+numComments=7
